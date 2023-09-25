@@ -1,5 +1,5 @@
 class ApplicationController < ActionController::Base
     def index
-        render "Hello World"
+        render text: "Hello World"
     end 
 end
