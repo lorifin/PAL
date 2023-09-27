@@ -7,4 +7,7 @@ class PagesController < ApplicationController
 
   def help
   end
+
+  def how_it_works
+  end
 end
